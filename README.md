@@ -13,7 +13,7 @@ I used the Daily Total Rainfall (mm) at the Hong Kong Observatory for 2026. The 
 
 ## Visualization
 
-The bar chart shows the daily rainfall in February 2026. Each bar represents one day, and its height represents the amount of rainfall in millimetres.
+The visualization shows each day of February 2026 as a mark on a timeline. Rainy days are shown as blue raindrops, with their size based on the daily rainfall amount. Dry days are shown as small pale dots.
 
 Most days had little or no rainfall, while February 28 stands out with 39 mm of rain. The picture makes this contrast easy to see. However, it only shows the total rainfall for each day. It does not show when the rain happened during the day or how long it lasted.
 
